@@ -1,4 +1,4 @@
-## 🐱‍👤 Lucas Ornelas! 
+## Lucas Ornelas! 
 
 👨‍💻 Sobre mim
 
