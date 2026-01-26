@@ -21,8 +21,8 @@ Cadastro de Usuários: aplicação web com validações de CPF, CEP e senha, des
 🌍 Idiomas
 
 Português: Nativo <br>
-Espanhol: Intermediário <br>
-Inglês: Intermediário <br>
+Espanhol: Básico <br>
+Inglês: Básico <br>
 
 Tenho facilidade para trabalho em equipe, aprendizado rápido e grande interesse em desenvolvimento web e aplicações mobile.
 
