@@ -2,7 +2,7 @@
 
 👨‍💻 Sobre mim
 
-Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário Augusto Motta (UNISUAM), atualmente no 2º período (previsão de conclusão em 2027).
+Estudante de Análise e Desenvolvimento de Sistemas pelo Centro Universitário Augusto Motta (UNISUAM), atualmente no 3º período (previsão de conclusão em 2027).
 
 💡 Competências
 
